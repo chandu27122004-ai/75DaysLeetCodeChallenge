@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/chandu27122004-ai/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
